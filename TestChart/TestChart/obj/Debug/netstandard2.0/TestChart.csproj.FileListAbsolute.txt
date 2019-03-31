@@ -1,0 +1,13 @@
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\bin\Debug\netstandard2.0\TestChart.deps.json
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\bin\Debug\netstandard2.0\TestChart.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\bin\Debug\netstandard2.0\TestChart.pdb
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.csprojAssemblyReference.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.csproj.CoreCompileInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.AssemblyInfoInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.AssemblyInfo.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\TestChart.pdb
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\PieChart.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\TestChart\TestChart\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,12 @@
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\bin\Debug\netstandard2.0\SfChart.deps.json
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\bin\Debug\netstandard2.0\SfChart.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.csprojAssemblyReference.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.csproj.CoreCompileInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.AssemblyInfoInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.AssemblyInfo.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\bin\Debug\netstandard2.0\SfChart.pdb
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\SfChart\SfChart\obj\Debug\netstandard2.0\SfChart.pdb

@@ -1,0 +1,13 @@
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\bin\Debug\netstandard2.0\Kan.deps.json
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\bin\Debug\netstandard2.0\Kan.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Kan.csprojAssemblyReference.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Views\Page3.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Views\Page4.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Views\Page5.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Kan.csproj.CoreCompileInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Kan.AssemblyInfoInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\Kan\Kan\obj\Debug\netstandard2.0\Kan.AssemblyInfo.cs

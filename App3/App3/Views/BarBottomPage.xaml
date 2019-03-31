@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            xmlns:local="clr-namespace:App3.Views"
+            BarBackgroundColor="Magenta"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            android:TabbedPage.BarItemColor="#999999"
+            android:TabbedPage.BarSelectedItemColor="Black"
+             x:Class="App3.Views.BarBottomPage">
+  <!--Pages can be added as references or inline-->
+
+    <local:HomePage Title="Home" Icon="Home"/>
+    <local:ChartPage Title="StatistikPage" Icon="Statistik"/>
+    <local:PlanPage Title="Plan" Icon="Plan"/>
+    <!--<local:NotifPage Title="Notif" Icon="Notif"/>-->
+    
+    <!--<TabbedPage.Children>
+        <NavigationPage Title="StatistikPage" Icon="Statistik">
+            <x:Arguments>
+                <local:ChartPage />
+            </x:Arguments>
+        </NavigationPage>
+    </TabbedPage.Children>
+
+    <TabbedPage.Children>
+        <NavigationPage Title="Plan" Icon="Plan">
+            <x:Arguments>
+                <local:PlanPage />
+            </x:Arguments>
+        </NavigationPage>
+    </TabbedPage.Children>
+
+    <TabbedPage.Children>
+        <NavigationPage Title="Notif" Icon="Notif">
+            <x:Arguments>
+                <local:NotifPage/>
+            </x:Arguments>
+        </NavigationPage>
+    </TabbedPage.Children>-->
+    
+</TabbedPage>

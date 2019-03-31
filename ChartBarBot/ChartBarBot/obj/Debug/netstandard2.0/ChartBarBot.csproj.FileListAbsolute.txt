@@ -1,0 +1,15 @@
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\bin\Debug\netstandard2.0\ChartBarBot.deps.json
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\bin\Debug\netstandard2.0\ChartBarBot.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\bin\Debug\netstandard2.0\ChartBarBot.pdb
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.csprojAssemblyReference.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\Views\BarPage.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\Views\Page2.xaml.g.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.csproj.CoreCompileInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.AssemblyInfoInputs.cache
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.AssemblyInfo.cs
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.dll
+E:\Belajar C#\Pak Fai\MicrochartsDemo\ChartBarBot\ChartBarBot\obj\Debug\netstandard2.0\ChartBarBot.pdb
